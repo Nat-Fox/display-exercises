@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+}
+
+.yellow-div,
+.red-div {
+    padding: 20px;
+}
+
+.yellow-div {
+    background-color: yellow;
+}
+
+.red-div {
+    background-color: red;
+    border-style: solid;
+    border-width: 0.5px;
+}
