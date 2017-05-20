@@ -1,9 +1,8 @@
-* {
+/*index1.html*/
+
+.general {
     margin: 0;
 }
-
-
-/*index1.html*/
 
 .yellow-div,
 .red-div {
@@ -22,6 +21,10 @@
 
 
 /*index2.html*/
+
+.general-dos {
+    margin: 0;
+}
 
 .div-general {
     display: block;
@@ -44,3 +47,36 @@
 .div-red {
     background-color: red;
 }
+
+
+/*index3.html*/
+
+body {
+    margin: 0 auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.yellow-span,
+.red-span {
+    display: inline-block;
+    padding: 15px;
+}
+
+.red-span {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.yellow-span {
+    background-color: yellow;
+}
+
+.red-span {
+    background-color: red;
+}
+
+
+/*index4.html*/
